@@ -1,4 +1,4 @@
-# [Daniel Hidalgo Chica]
+# Daniel Hidalgo Chica
 
 **BSc on Computer Science & Mathematics** 📍 [Granada, Spain] | ✉️ [daniel5000.dhc@gmail.com] | 🔗 [[LinkedIn Profile](https://www.linkedin.com/in/daniel-hidalgo-chica-66b5a63a0/)]
 
