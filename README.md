@@ -10,7 +10,7 @@ I am an undergraduate student focused on the intersection between theoretical ma
 
 * **Languages:** C/C++, Java, Python, GDScript
 * **Tools & Environment:** Linux, Git/GitHub, Vim, Godot 4.
-* **Interests:** Machine Learning, Numerical Optimization, Algorithm Design
+* **Interests:** Machine Learning, Cybersecurity, Algorithm Design, Fintech.
 
 ---
 
